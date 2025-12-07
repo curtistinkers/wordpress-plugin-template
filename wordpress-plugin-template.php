@@ -31,5 +31,4 @@ declare(strict_types=1);
 function wordpress_plugin_template_example( string $example_param ): string {
 
 	return $example_param;
-
 }
