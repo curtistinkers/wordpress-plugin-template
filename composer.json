@@ -1,7 +1,6 @@
 {
 	"name": "curtistinkers/wordpress-plugin-template",
 	"description": "",
-	"version": "1.0.0",
 	"type": "wordpress-plugin",
 	"keywords": [ "wordpress", "composer", "wordpress-plugin" ],
 	"homepage": "https://github.com/curtistinkers/wordpress-plugin-template",
