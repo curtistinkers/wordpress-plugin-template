@@ -2,6 +2,7 @@
 	"name": "curtistinkers/wordpress-plugin-template",
 	"description": "",
 	"type": "wordpress-plugin",
+	"version": "1.0.1",
 	"keywords": [ "wordpress", "composer", "wordpress-plugin" ],
 	"homepage": "https://github.com/curtistinkers/wordpress-plugin-template",
 	"license": "MIT",
