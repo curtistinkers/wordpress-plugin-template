@@ -28,7 +28,8 @@ declare(strict_types=1);
  *
  * @return string Example return value.
  */
-function disable_wp_health_checks_composer( string $example_param ): string {
+function wordpress_plugin_template_example( string $example_param ): string {
 
-        return $example_param;
+	return $example_param;
+
 }
