@@ -3,19 +3,19 @@
 	<description>WordPress coding standards for plugins</description>
 
 	<!-- Use WordPress coding standard -->
-	<rule ref="WordPress"/>
+	<rule ref="WordPress" />
 
 	<!-- Enable color output -->
-	<arg name="colors"/>
+	<arg name="colors" />
 
 	<!-- Show progress -->
-	<arg name="show_progress"/>
+	<arg value="ps" />
+	<config name="show_progress" value="1" />
 
 	<!-- Define the directories to be checked -->
-	<arg name="encoding" value="utf8"/>
-	<file>*.php</file>
+	<arg name="encoding" value="utf8" />
+	<file>.</file>
 	<file>src</file>
-	<file>tests</file>
 
 	<!-- Exclude the vendor directory -->
 	<exclude-pattern>*/vendor/*</exclude-pattern>
