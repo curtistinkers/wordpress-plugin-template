@@ -1,8 +1,8 @@
 parameters:
-        level: 10
-        paths:
-                - wordpress-plugin-template.php
-				- src/
+	level: 10
+	paths:
+		- wordpress-plugin-template.php
+		- src/
 
-        checkTooWideReturnTypesInProtectedAndPublicMethods: true
-        checkUninitializedProperties: true
+	checkTooWideReturnTypesInProtectedAndPublicMethods: true
+	checkUninitializedProperties: true
