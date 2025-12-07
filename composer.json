@@ -41,7 +41,8 @@
 		}
 	},
 	"scripts": {
-		"lint" : "phpcs",
+		"phpcs" : "phpcs",
+		"lint" : "@phpcs",
 		"phpstan" : "phpstan analyse"
 	}
 }
